@@ -5634,7 +5634,8 @@ body,
 
 .navbar {
   background-color: gray;
-  border: 0; }
+  border: 0;
+  margin-bottom: 0; }
   .navbar .btn-danger {
     position: fixed;
     z-index: 10;
